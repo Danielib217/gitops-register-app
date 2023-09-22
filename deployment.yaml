@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: register-app
-          image: daniel217x/register-app-pipeline:1.0.0-20
+          image: daniel217x/vulnado-pipeline:1.0.0-1
           resources:
             limits:
               memory: "256Mi"
